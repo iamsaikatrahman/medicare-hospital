@@ -1,0 +1,7 @@
+.card-image {
+  height: 250px;
+  object-fit: cover;
+}
+.card-name-container {
+  background-color: #2caee2;
+}

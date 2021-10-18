@@ -1,0 +1,93 @@
+{
+  "services": [
+    {
+      "id": "s1",
+      "name": "Anesthesia",
+      "image": "https://i.ibb.co/51Q0sVg/anesthesia.jpg"
+    },
+    {
+      "id": "s2",
+      "name": "Corona Virus Treatment",
+      "image": "https://i.ibb.co/fHpjb2P/coronavirus.webp"
+    },
+    {
+      "id": "s3",
+      "name": "Removal of Tartar",
+      "image": "https://i.ibb.co/vvhH1r2/removing-tartar.jpg"
+    },
+    {
+      "id": "s4",
+      "name": "Heart Attack Treatment",
+      "image": "https://i.ibb.co/Bt1tdcW/heartattack.jpg"
+    },
+    {
+      "id": "s5",
+      "name": "Orthopaedic Treatment",
+      "image": "https://i.ibb.co/NNHSH1t/Close-up-Doctor-in-Blue-Uniform-Comfforting-Leg-of-Sitting-Young-Woman-in-Doctor-Office-Traumatology.jpg"
+    },
+    {
+      "id": "s6",
+      "name": "Plastic Surgery",
+      "image": "https://i.ibb.co/crtqVBh/plastic-surgery.jpg"
+    },
+    {
+      "id": "s7",
+      "name": "Dental Bridge",
+      "image": "https://i.ibb.co/Dp6F9HV/dental-bridges.jpg"
+    },
+    {
+      "id": "s8",
+      "name": "Skin Correction",
+      "image": "https://i.ibb.co/WK2zZyn/Skin-Correction.jpg"
+    },
+    {
+      "id": "s9",
+      "name": "Teeth Whitening",
+      "image": "https://i.ibb.co/qdcFbn4/Teeth-Whitening.jpg"
+    }
+  ],
+  "doctors": [
+    {
+      "id": "d1",
+      "name": "Chase Franklin",
+      "image": "https://i.ibb.co/C5gZNQf/d-1.jpg",
+      "designation": "Founder / Chief Surgeon",
+      "phone": "(243)-915-8672"
+    },
+    {
+      "id": "d2",
+      "name": "Anna Wilson",
+      "image": "https://i.ibb.co/vVQjTJ9/d-2.jpg",
+      "designation": "Assistant Surgeon",
+      "phone": "(130)-865-3982"
+    },
+    {
+      "id": "d3",
+      "name": "Peggie Cannon",
+      "image": "https://i.ibb.co/Q9HcG47/d-3.png",
+      "designation": "Lead Nurse",
+      "phone": "(895)-907-4146"
+    },
+    {
+      "id": "d4",
+      "name": "Lara Crow",
+      "image": "https://i.ibb.co/7CNbdZ8/d-4.png",
+      "designation": "Dentist",
+      "phone": "(564)-670-9638"
+    },
+    {
+      "id": "d5",
+      "name": "Mark Lowson",
+      "image": "https://i.ibb.co/0tS78d7/d-5.jpg",
+      "designation": "Therepist",
+      "phone": "(293)-866-7599"
+    },
+    {
+      "id": "d6",
+      "name": "Tonya Warren",
+      "image": "https://i.ibb.co/HK2FBtL/d-6.jpg",
+      "designation": "Cardiologist",
+      "phone": "(251)-064-5368"
+    }
+  ]
+}

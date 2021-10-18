@@ -1,0 +1,11 @@
+.navbar-brand {
+  font-weight: 700;
+  font-size: 2rem;
+  font-family: "Poppins", sans-serif !important;
+}
+.color-orange {
+  color: #f26031;
+}
+.nav-link {
+  font-weight: 600;
+}
