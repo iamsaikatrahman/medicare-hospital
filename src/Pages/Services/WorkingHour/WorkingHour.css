@@ -1,0 +1,26 @@
+.working-hour-container {
+  background: linear-gradient(rgb(249 251 253 / 75%), rgb(123 197 254 / 62%)),
+    url("../../../images/working-hour.jpg");
+  background-position: center;
+  width: 100%;
+  height: auto;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.day {
+  width: 80px;
+  height: 80px;
+  text-align: center;
+  border-radius: 50%;
+  border: 3px solid #1a75bb;
+  font-weight: 700;
+  font-size: 1.5rem;
+  line-height: 80px;
+  cursor: pointer;
+}
+
+.day:hover {
+  color: white;
+  background-color: #2794e9ba;
+  transition: all 0.3s ease;
+}
