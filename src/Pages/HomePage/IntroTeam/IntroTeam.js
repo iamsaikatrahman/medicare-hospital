@@ -2,7 +2,6 @@ import { Button } from "react-bootstrap";
 import React from "react";
 import introTeam from "../../../images/team.png";
 import "./IntroTeam.css";
-import { Link } from "react-router-dom";
 import { HashLink } from "react-router-hash-link";
 
 const IntroTeam = () => {
