@@ -89,5 +89,31 @@
       "designation": "Cardiologist",
       "phone": "(251)-064-5368"
     }
+  ],
+  "counts": [
+    {
+      "id": "c1",
+      "label": "Saved Hearts",
+      "number": "180",
+      "duration": "2"
+    },
+    {
+      "id": "c2",
+      "label": "Saved Tooth",
+      "number": "2568",
+      "duration": "2"
+    },
+    {
+      "id": "c3",
+      "label": "Saved Lungs",
+      "number": "112",
+      "duration": "2"
+    },
+    {
+      "id": "c4",
+      "label": "Saved Stomachs",
+      "number": "235",
+      "duration": "2"
+    }
   ]
 }

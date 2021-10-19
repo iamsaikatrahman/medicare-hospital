@@ -30,6 +30,7 @@ const Login = () => {
       ? signInUsingEmail(data.email, data.password).then((result) => {
           setUserInfo(data.name, data.imageLink);
           history.push(redirect_uri);
+          window.location.reload();
         })
       : processLogin(data.email, data.password).then((result) => {
           history.push(redirect_uri);

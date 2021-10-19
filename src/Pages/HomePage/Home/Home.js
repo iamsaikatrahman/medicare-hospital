@@ -3,6 +3,7 @@ import Banner from "../Banner/Banner";
 import Counter from "../Counter/Counter";
 import Emergency from "../Emergency/Emergency";
 import Founder from "../Founder/Founder";
+import IntroTeam from "../IntroTeam/IntroTeam";
 import TopServices from "../TopServices/TopServices";
 import "./Home.css";
 
@@ -14,6 +15,7 @@ const Home = () => {
       <Founder />
       <TopServices />
       <Counter />
+      <IntroTeam />
     </div>
   );
 };

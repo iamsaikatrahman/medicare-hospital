@@ -1,0 +1,8 @@
+.team-Image {
+  width: 100%;
+}
+@media (min-width: 768px) {
+  .team-Image {
+    width: auto;
+  }
+}

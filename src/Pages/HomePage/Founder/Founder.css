@@ -1,0 +1,19 @@
+.founder-img {
+  transform: translate(-150%);
+  animation: founder-img-animation 1s ease-in-out forwards;
+}
+@keyframes founder-img-animation {
+  100% {
+    transform: translate(0);
+  }
+}
+.founder-speech {
+  transform: translate(150%);
+  animation: founder-text-animation 1s ease-in-out forwards;
+}
+
+@keyframes founder-text-animation {
+  100% {
+    transform: translate(0);
+  }
+}

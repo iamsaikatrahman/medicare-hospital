@@ -1,0 +1,9 @@
+.counter-container {
+  background: linear-gradient(rgb(249 251 253 / 75%), rgb(123 197 254 / 62%)),
+    url("../../../images/counter.jpg");
+  background-position: center;
+  width: 100%;
+  height: auto;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
