@@ -1,0 +1,26 @@
+.emergency-container {
+  background: #f26031;
+  color: #fff;
+  font-weight: 600;
+}
+.timetable-container {
+  background: #3851a2;
+  color: #fff;
+  font-weight: 600;
+}
+.opening-container {
+  background: #2d4990;
+  color: #fff;
+  font-weight: 600;
+}
+
+@media (min-width: 768px) {
+  .emergency-container {
+    border-top-left-radius: 16px;
+    border-bottom-left-radius: 16px;
+  }
+  .opening-container {
+    border-top-right-radius: 16px;
+    border-bottom-right-radius: 16px;
+  }
+}
