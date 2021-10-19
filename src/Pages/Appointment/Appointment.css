@@ -1,0 +1,15 @@
+.appointment-container {
+  background: linear-gradient(rgb(13 110 253 / 33%), #616b7ed9),
+    url("../../images//counter.jpg");
+  width: 100%;
+  height: auto;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+input,
+textarea {
+  border-radius: 5px;
+  outline: none;
+  border-color: #3851a2;
+}
