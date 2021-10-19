@@ -5,6 +5,7 @@ import "./AboutUs.css";
 import OurTeam from "./OurTeam/OurTeam";
 import bookNow from "../../images/book-now.png";
 import PageThumbnail from "../Shared/PageThumbnail/PageThumbnail";
+import { Link } from "react-router-dom";
 
 const AboutUs = () => {
   return (
@@ -27,7 +28,9 @@ const AboutUs = () => {
                 independent healthcare centers that see a cut in unforeseen
                 payouts
               </p>
-              <Button variant="primary">Book Now</Button>
+              <Link to="/appointment">
+                <Button variant="primary">Book Now</Button>
+              </Link>
             </div>
             <div className="w-100">
               <img src={bookNow} className="w-100" alt="" />

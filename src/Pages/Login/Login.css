@@ -1,0 +1,36 @@
+.authentication-Container {
+  background: linear-gradient(rgb(13 110 253 / 33%), #616b7ed9),
+    url("../../images/hospital.jpg");
+  width: 100%;
+  height: 100vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+.authentication-form {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background: #ffffff96;
+  padding: 1.5rem;
+  border-radius: 16px;
+  box-shadow: 2px 3px 8px 2px lightgrey;
+}
+.authentication-form input {
+  font-weight: 700;
+  outline: none;
+  border-color: #ff00006b;
+  border-radius: 5px;
+  padding: 5px 16px;
+}
+
+.authentication-form input::placeholder {
+  font-weight: 600;
+}
+
+.errors {
+  color: red;
+  font-size: 0.8rem;
+  font-weight: 600;
+}
