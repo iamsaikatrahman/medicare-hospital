@@ -7,7 +7,7 @@ const OurTeam = () => {
   const [doctors] = useDoctors();
   return (
     <Container>
-      <div className="py-5">
+      <div id="#ourteam" className="py-5">
         <h2 className="title">
           Our <span className="color-orange">Team</span>
         </h2>

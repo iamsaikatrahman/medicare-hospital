@@ -2,6 +2,8 @@ import { Button } from "react-bootstrap";
 import React from "react";
 import introTeam from "../../../images/team.png";
 import "./IntroTeam.css";
+import { Link } from "react-router-dom";
+import { HashLink } from "react-router-hash-link";
 
 const IntroTeam = () => {
   return (
@@ -16,7 +18,9 @@ const IntroTeam = () => {
       <img src={introTeam} className="team-Image" alt="" />
       <br />
       <br />
-      <Button variant="primary">Read More Our Team</Button>
+      <HashLink to="/aboutus#ourteam">
+        <Button variant="primary">Read More Our Team</Button>
+      </HashLink>
     </div>
   );
 };
