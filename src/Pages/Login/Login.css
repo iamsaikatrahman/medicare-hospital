@@ -8,14 +8,16 @@
   background-position: center;
 }
 .authentication-form {
+  color: #fff;
+  font-weight: 600;
   position: absolute;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  background: #ffffff96;
+  background: #f2603196;
   padding: 1.5rem;
   border-radius: 16px;
-  box-shadow: 2px 3px 8px 2px lightgrey;
+  box-shadow: 2px 3px 8px 2px #4443434f;
 }
 .authentication-form input {
   font-weight: 700;

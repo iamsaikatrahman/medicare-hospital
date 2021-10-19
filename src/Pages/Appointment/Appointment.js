@@ -50,7 +50,7 @@ const Appointment = () => {
                 rows="3"
               ></textarea>
               <br />
-              <button className="btn btn-primary">Submit Your Message</button>
+              <button className="btn btn-primary">Book Now</button>
             </form>
           </div>
         </div>

@@ -3,47 +3,74 @@
     {
       "id": "s1",
       "name": "Anesthesia",
-      "image": "https://i.ibb.co/51Q0sVg/anesthesia.jpg"
+      "price": "$50-100",
+      "image": "https://i.ibb.co/51Q0sVg/anesthesia.jpg",
+      "shotDes": "Anesthesia is a state of controlled, temporary loss of sensation or awareness that is induced for medical purposes.",
+      "detailsInfo": "Anesthesia is a state of controlled, temporary loss of sensation or awareness that is induced for medical purposes. It may include some or all of analgesia, paralysis, amnesia, and unconsciousness. A patient under the effects of anesthetic drugs is referred to as being anesthetized."
     },
     {
       "id": "s2",
       "name": "Corona Virus Treatment",
-      "image": "https://i.ibb.co/fHpjb2P/coronavirus.webp"
+      "price": "$10-180",
+      "image": "https://i.ibb.co/fHpjb2P/coronavirus.webp",
+      "shotDes": "Coronavirus disease (COVID-19) is an infectious disease caused by the SARS-CoV-2 virus.",
+      "detailsInfo": "The virus can spread from an infected person’s mouth or nose in small liquid particles when they cough, sneeze, speak, sing or breathe. These particles range from larger respiratory droplets to smaller aerosols. You can be infected by breathing in the virus if you are near someone who has COVID-19, or by touching a contaminated surface and then your eyes, nose or mouth. The virus spreads more easily indoors and in crowded settings."
     },
     {
       "id": "s3",
       "name": "Removal of Tartar",
-      "image": "https://i.ibb.co/vvhH1r2/removing-tartar.jpg"
+      "price": "$5-50",
+      "image": "https://i.ibb.co/vvhH1r2/removing-tartar.jpg",
+      "shotDes": "If the dentist spots tartar on the surface of the teeth, they will remove it with an instrument called a scaler.",
+      "detailsInfo": "While you can't safely remove tartar at home, with an excellent oral hygiene routine, plaque removal can be done by following these steps: Brush your teeth twice a day with a soft-bristled toothbrush. Clean using Baking soda– A mixture of baking soda and salt is an effective home remedy for dental calculus removal. Brushing your teeth with baking soda and salt softens the calculus, making it easy to remove. The mixture should smoothly be scrubbed on the teeth by using a toothbrush."
     },
     {
       "id": "s4",
       "name": "Heart Attack Treatment",
-      "image": "https://i.ibb.co/Bt1tdcW/heartattack.jpg"
+      "price": "$80-300",
+      "image": "https://i.ibb.co/Bt1tdcW/heartattack.jpg",
+      "shotDes": "A heart attack, also called a myocardial infarction, happens when a part of the heart muscle doesn't get enough blood.",
+      "detailsInfo": "A heart attack, also called a myocardial infarction, happens when a part of the heart muscle doesn't get enough blood. The more time that passes without treatment to restore blood flow, the greater the damage to the heart muscle. Coronary artery disease (CAD) is the main cause of heart attack."
     },
     {
       "id": "s5",
       "name": "Orthopaedic Treatment",
-      "image": "https://i.ibb.co/NNHSH1t/Close-up-Doctor-in-Blue-Uniform-Comfforting-Leg-of-Sitting-Young-Woman-in-Doctor-Office-Traumatology.jpg"
+      "price": "$50-100",
+      "image": "https://i.ibb.co/NNHSH1t/Close-up-Doctor-in-Blue-Uniform-Comfforting-Leg-of-Sitting-Young-Woman-in-Doctor-Office-Traumatology.jpg",
+      "shotDes": "Orthopaedic surgery or orthopaedics, is the branch of surgery concerned with conditions involving the musculoskeletal system.",
+      "detailsInfo": "Orthopedics is a medical specialty that deals with the treatment of bones and muscles. Orthopedic surgery is the branch of medicine concerned with diseases, injuries, and conditions of the musculoskeletal system relating to the body's muscles and skeleton. This includes the joints, ligaments, tendons, and nerves."
     },
     {
       "id": "s6",
       "name": "Plastic Surgery",
-      "image": "https://i.ibb.co/crtqVBh/plastic-surgery.jpg"
+      "price": "$40-600",
+      "image": "https://i.ibb.co/crtqVBh/plastic-surgery.jpg",
+      "shotDes": "Plastic surgery is a surgical specialty involving the restoration, reconstruction, or alteration of the human body.",
+      "detailsInfo": "Plastic surgery is a surgical specialty involving the restoration, reconstruction, or alteration of the human body. It can be divided into two main categories: reconstructive surgery and cosmetic surgery. Reconstructive surgery includes craniofacial surgery, hand surgery, microsurgery, and the treatment of burns."
     },
     {
       "id": "s7",
       "name": "Dental Bridge",
-      "image": "https://i.ibb.co/Dp6F9HV/dental-bridges.jpg"
+      "price": "$50-400",
+      "image": "https://i.ibb.co/Dp6F9HV/dental-bridges.jpg",
+      "shotDes": "A bridge is a custom-made replacement tooth or teeth that fill the space where one or more teeth are missing.",
+      "detailsInfo": "A bridge is a custom-made replacement tooth or teeth that fill the space where one or more teeth are missing. The bridge permanently restores your bite and helps keep the natural shape of your face. The dental bridge should feel nearly as real and comfortable to you as your natural teeth did. Many of our patients report that their bridges feel even better than the natural teeth did prior to bridge placement, especially if these teeth had large fillings or restorations in them."
     },
     {
       "id": "s8",
       "name": "Skin Correction",
-      "image": "https://i.ibb.co/WK2zZyn/Skin-Correction.jpg"
+      "price": "$50-100",
+      "image": "https://i.ibb.co/WK2zZyn/Skin-Correction.jpg",
+      "shotDes": "Skin tone and consistency of color can appear damaged from a large build-up of dead skin cells.",
+      "detailsInfo": "Skin tone and consistency of color can appear damaged from a large build-up of dead skin cells. Laser treatments allow these layers to be quickly and safely removed. Sun damage and aging skin collagen can be put on a path of recovery. Color correctors are like the nerds of the makeup world: They're problem-solving, overachieving, all-around smarties. Instead of just covering up skin issues with flesh-toned pigments, they use visual effects based on color theory to effectively cancel out redness, purple-tinged dark circles, even dull, grayish skin."
     },
     {
       "id": "s9",
       "name": "Teeth Whitening",
-      "image": "https://i.ibb.co/qdcFbn4/Teeth-Whitening.jpg"
+      "price": "$30-100",
+      "image": "https://i.ibb.co/qdcFbn4/Teeth-Whitening.jpg",
+      "shotDes": "Both tooth-whitening options use peroxide-based bleaching agents. At-home systems contain from 3% to 20% peroxide (carbamide or hydrogen peroxides).",
+      "detailsInfo": "Both tooth-whitening options use peroxide-based bleaching agents. At-home systems contain from 3% to 20% peroxide (carbamide or hydrogen peroxides). In-office systems contain from 15% to 43% peroxide. Generally, the longer you keep a stronger solution on your teeth, the whiter your teeth become."
     }
   ],
   "doctors": [
@@ -95,25 +122,25 @@
       "id": "c1",
       "label": "Saved Hearts",
       "number": "180",
-      "duration": "2"
+      "duration": "3"
     },
     {
       "id": "c2",
       "label": "Saved Tooth",
       "number": "2568",
-      "duration": "2"
+      "duration": "3"
     },
     {
       "id": "c3",
       "label": "Saved Lungs",
       "number": "112",
-      "duration": "2"
+      "duration": "3"
     },
     {
       "id": "c4",
       "label": "Saved Stomachs",
       "number": "235",
-      "duration": "2"
+      "duration": "3"
     }
   ]
 }
