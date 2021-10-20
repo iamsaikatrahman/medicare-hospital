@@ -17,7 +17,7 @@ This is a beautiful hospital website. Here you will find all the facilities of t
 
 # Live Site
 
-You can vist our live site <a href="https://medicare-hospital-d0483.web.app/">Medicar Hospital</a>
+You can vist our live site <a href="https://medicare-hospital-d0483.web.app/">Medicare Hospital</a>
 
 # Technology
 
