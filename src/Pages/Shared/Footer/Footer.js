@@ -5,16 +5,27 @@ import "./Footer.css";
 
 const Footer = () => {
   return (
-    <div className="footer-container">
+    <div className="footer-container" fixed="bottom">
       <Container>
         <div className="row g-4">
-          <div className="col-12 col-lg-4 text-lg-start brand-name">
+          <div className="col-12  col-lg-3 text-lg-start brand-name">
             <img src={brandLogo} style={{ width: "50px" }} alt="MediCare" />{" "}
             MEDI
             <span className="color-orange">CARE</span>
           </div>
-          <div className="col-12 col-lg-4"></div>
-          <div className="col-12 col-lg-4 text-lg-start">
+          <div className=" col-12  col-lg-3 text-white text-lg-start">
+            <h4>Popular Service</h4>
+            <p>Anesthesia</p>
+            <p>Plastic Surgery</p>
+            <p>Corona Virus Treatment</p>
+          </div>
+          <div className="col-12  col-lg-2 text-white text-lg-start">
+            <h4>Links</h4>
+            <p>Abouts Us</p>
+            <p>Our Services</p>
+            <p>Contact Us</p>
+          </div>
+          <div className="col-12  col-lg-4 text-lg-start">
             <h2 className="contact-number mb-3">
               <i className="bi bi-telephone-fill"></i> (775)-583-3011
             </h2>

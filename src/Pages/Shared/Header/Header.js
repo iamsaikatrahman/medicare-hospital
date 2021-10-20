@@ -8,7 +8,7 @@ import "./Header.css";
 const Header = () => {
   const { user, logOut } = useAuth();
   return (
-    <Navbar fixed="top" bg="white" expand="lg">
+    <Navbar fixed="top" bg="light" expand="lg">
       <Container>
         <Navbar.Brand as={Link} to="/">
           <img src={brandLogo} style={{ width: "50px" }} alt="MediCare" /> MEDI

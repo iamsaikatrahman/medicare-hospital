@@ -17,7 +17,7 @@ const Appointment = () => {
           <div className="w-100">
             <img src={appointment} className="w-100" alt="" />
           </div>
-          <div className="w-100 text-start text-white">
+          <div className="w-100 text-start text-white appointment">
             <form>
               <label htmlFor="name">
                 Your Name<span className="text-danger">*</span>
@@ -50,7 +50,7 @@ const Appointment = () => {
                 rows="3"
               ></textarea>
               <br />
-              <button className="btn btn-primary">Book Now</button>
+              <button className="btn btn-primary w-100">Book Now</button>
             </form>
           </div>
         </div>
