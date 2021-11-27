@@ -20,7 +20,7 @@ const OurTeam = () => {
         {/* doctor card */}
         <div className="row g-4 mt-3">
           {doctors.map((data) => (
-            <DoctorCard key={data.id} doctor={data} />
+            <DoctorCard key={data._id} doctor={data} />
           ))}
         </div>
       </div>

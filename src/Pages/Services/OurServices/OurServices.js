@@ -20,7 +20,7 @@ const OurServices = () => {
         {/* services card */}
         <div className="row g-4 mt-3">
           {services.map((data) => (
-            <ServicesCard key={data.id} service={data} />
+            <ServicesCard key={data._id} service={data} />
           ))}
         </div>
       </div>

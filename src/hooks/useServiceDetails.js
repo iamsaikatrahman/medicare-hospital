@@ -3,12 +3,10 @@ import { useEffect, useState } from "react";
 const useServiceDetails = (serviceId) => {
   const [serviceDetails, setServiceDetails] = useState([]);
   useEffect(() => {
-    fetch("../data.json")
+    fetch(`https://afternoon-cove-00674.herokuapp.com/services/${serviceId}`)
       .then((res) => res.json())
-      .then((data) =>
-        setServiceDetails(data.services.find((item) => item.id === serviceId))
-      );
+      .then((data) => setServiceDetails(data));
   }, [serviceId]);
-  return [serviceDetails];
+  return { serviceDetails };
 };
 export default useServiceDetails;

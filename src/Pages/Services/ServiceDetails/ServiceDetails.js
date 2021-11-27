@@ -6,8 +6,9 @@ import useServiceDetails from "../../../hooks/useServiceDetails";
 
 const ServiceDetails = () => {
   const { serviceId } = useParams();
-  const [serviceDetails] = useServiceDetails(serviceId);
+  const { serviceDetails } = useServiceDetails(serviceId);
   const { name, image, shotDes, price, detailsInfo } = serviceDetails;
+  // console.log(ServiceDetails);
   return (
     <div className="padding-top">
       <Container>

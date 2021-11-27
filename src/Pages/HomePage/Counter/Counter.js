@@ -6,9 +6,9 @@ import CounterCard from "./CounterCard";
 const Counter = () => {
   const [counter, setCounter] = useState([]);
   useEffect(() => {
-    fetch("./data.json")
+    fetch("https://afternoon-cove-00674.herokuapp.com/counts")
       .then((res) => res.json())
-      .then((data) => setCounter(data.counts));
+      .then((data) => setCounter(data));
   }, []);
   return (
     <div className="counter-container">
@@ -17,7 +17,7 @@ const Counter = () => {
         <div className="underline mx-auto"></div>
         <div className="row g-4 py-5">
           {counter.map((item) => (
-            <CounterCard key={item.id} data={item} />
+            <CounterCard key={item._id} data={item} />
           ))}
           {/* <CounterCard /> */}
         </div>

@@ -1,5 +1,4 @@
 import React, { useEffect, useState } from "react";
-
 const CounterCard = (props) => {
   const { label, number, duration } = props.data;
   const [count, setCount] = useState("0");
@@ -25,6 +24,7 @@ const CounterCard = (props) => {
 
     // dependency array
   }, [number, duration]);
+
   return (
     <div className="col-12 col-md-6 col-lg-3">
       <h2 className="title">{count}+</h2>
